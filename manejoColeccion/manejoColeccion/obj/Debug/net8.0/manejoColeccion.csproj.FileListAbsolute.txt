@@ -1,0 +1,14 @@
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\bin\Debug\net8.0\manejoColeccion.exe
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\bin\Debug\net8.0\manejoColeccion.deps.json
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\bin\Debug\net8.0\manejoColeccion.runtimeconfig.json
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\bin\Debug\net8.0\manejoColeccion.dll
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\bin\Debug\net8.0\manejoColeccion.pdb
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.AssemblyInfoInputs.cache
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.AssemblyInfo.cs
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.csproj.CoreCompileInputs.cache
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.dll
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\refint\manejoColeccion.dll
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.pdb
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\manejoColeccion.genruntimeconfig.cache
+C:\Users\brine\Downloads\manejoColeccion\manejoColeccion\obj\Debug\net8.0\ref\manejoColeccion.dll

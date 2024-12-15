@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oddRGvVlgw8nehTJzVVHjmS4DoiBwhxrkgK256Hnz4iYT9N0x0FTfJqRoFueAldkLXEo1gNuEWGzYxVkn5IUTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brine\\Downloads\\manejoColeccion\\Reactividad\\Reactividad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brine\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

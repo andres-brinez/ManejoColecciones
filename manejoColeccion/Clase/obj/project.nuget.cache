@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Infs7X+hJ5lfIZV2mI1rzi3P97OuM38YY2ZKE84MO9wg0JnxW8mTub/hlISczsPKRR8cZwgqzZBASaIiCSuSmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brine\\Downloads\\manejoColeccion\\Clase\\Clase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brine\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
